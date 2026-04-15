@@ -46,4 +46,7 @@ ________________________________________________________
 </a>
 
 <a href="https://youtu.be/nEv6aHv-974" target="_blank">
- <img src="http://img.youtube.com/vi/nEv6aHv-974/hqdefault.jpg
+ <img src="http://img.youtube.com/vi/nEv6aHv-974/hqdefault.jpg"
+        alt="ALSO Watch this video"
+        width="240" height="180" border="10" />
+</a>
