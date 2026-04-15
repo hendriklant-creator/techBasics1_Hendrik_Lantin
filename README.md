@@ -1,7 +1,7 @@
 # techBasics1_Hendrik_Lantin
 # This is my repo for TechBasics 1
 ##### *"I will put in an above amount of generally productive and good effort"*
-### to learn coding enough to make a retro and cool website (in th foreseeable future)
+### to learn coding enough to make a retro and cool website (in the foreseeable future)
 
        .-""-.
       /-.{}  \         
@@ -17,7 +17,7 @@
 ________________________________________________________
 #  This is my bio 
 ###### (trying out headers and stuff)
-## If one wants he can make smaller font, and maybe even *booold*
+## If one 'wants' he can make 'smaller font', and maybe even *booold*
 ##### nvm that was **italics**.
 #####  ~~Scratch that, I wrote it in the wrong place and also wrong font~~
 ### Here's some more 
@@ -38,7 +38,7 @@ ________________________________________________________
 ##### [MY FAVOURITE WEBSITE FOR FUNKY PHOTO EDITING](https://www.glyphr.xyz/)
 ##### [I also like this](https://grainrad.com/)
 
-# My Youtube Videos : )
+# > My Youtube Videos : )
 
 <a href="https://www.youtube.com/watch?v=DNTSfk3xWGU" target="_blank">
   <img src="http://img.youtube.com/vi/DNTSfk3xWGU/hqdefault.jpg" 
