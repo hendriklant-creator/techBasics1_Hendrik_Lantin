@@ -1,5 +1,7 @@
 # techBasics1_Hendrik_Lantin
-# This is my repo for TechBasics 1 - I will put in ##### "an above amount of generally productive and good effort" # to learn coding enough to make a retro and cool website (in th foreseeable future)
+# This is my repo for TechBasics 1 - I will put in 
+##### "an above amount of generally productive and good effort" 
+# to learn coding enough to make a retro and cool website (in th foreseeable future)
 
        .-""-.
       /-.{}  \         
