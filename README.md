@@ -39,6 +39,8 @@ ________________________________________________________
 
 #My Youtube Videos : )
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=DNTSfk3xWGU
-" target="_blank"><img src="h[ttp://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0](https://www.youtube.com/watch?v=DNTSfk3xWGU).jpg" 
-alt="The unthinkable scenario" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=DNTSfk3xWGU" target="_blank">
+  <img src="http://img.youtube.com/vi/DNTSfk3xWGU/0.jpg" 
+       alt="Watch the video" 
+       width="240" height="180" border="10" />
+</a>
