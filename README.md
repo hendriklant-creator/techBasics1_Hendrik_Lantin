@@ -40,7 +40,10 @@ ________________________________________________________
 #My Youtube Videos : )
 
 <a href="https://www.youtube.com/watch?v=DNTSfk3xWGU" target="_blank">
-  <img src="http://img.youtube.com/vi/DNTSfk3xWGU/0.jpg" 
+  <img src="http://img.youtube.com/vi/DNTSfk3xWGU/hqdefault.jpg" 
        alt="Watch the video" 
        width="240" height="180" border="10" />
 </a>
+
+<a href="https://youtu.be/nEv6aHv-974" target="_blank">
+ <img src="http://img.youtube.com/vi/nEv6aHv-974/hqdefault.jpg
