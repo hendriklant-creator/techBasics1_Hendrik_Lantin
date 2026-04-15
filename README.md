@@ -26,7 +26,7 @@ ________________________________________________________
     *But this is unordered
     1. But I can also make an ordered sub-list
 3. and then go back to the ordinal stuff.
-    *I learned this from [this website](
+    *I learned this from [this website](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#videos)
 
 # Links and Bio stuff
 ### Now I am going to try and make links and stuff look cool
