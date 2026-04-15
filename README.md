@@ -13,10 +13,10 @@ This is my class repo for Tech Basics 1, i will actually participate and do my b
        I    I         I
        I    I         I
 ________________________________________________________
-#H1       This is my bio
-#H3       If one wants he can make smaller font, and maybe even *booold*, nvm that was **italics**.
-#H5 ~~Scratch that, I wrote it in the wrong place and also wrong font~~
-#H3
+#        This is my bio
+##        If one wants he can make smaller font, and maybe even *booold*, nvm that was **italics**.
+#####  ~~Scratch that, I wrote it in the wrong place and also wrong font~~
+### 
 1. first
 2. second
 *But this is unordered
