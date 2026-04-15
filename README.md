@@ -1,5 +1,5 @@
 # techBasics1_Hendrik_Lantin
-This is my class repo for Tech Basics 1, i will actually participate and do my best to learn and create cool stuff.
+# This is my repo for TechBasics 1 - I will put in "an above amount of generally productive and good effort" to learn coding enough to make a retro and cool website (in th foreseeable future)
 
        .-""-.
       /-.{}  \         
@@ -29,4 +29,7 @@ ________________________________________________________
 ### Now I am going to try and make links and stuff look cool
 ### [My Website with my general info and projects](https://hendriklantin.neocities.org/ "My Webstie that I created WITH AI")
 #### Some other websites that I will try and link now
-#####
+##### [My Youtube Channel](https://www.youtube.com/@hendriklantin)
+##### [Instagram](https://www.instagram.com/hendrik_lantin/)
+##### [MY FAVOURITE WEBSITE FOR FUNKY PHOTO EDITING](https://www.glyphr.xyz/)
+##### [I also like this](https://grainrad.com/)
