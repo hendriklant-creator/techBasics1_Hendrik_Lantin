@@ -13,4 +13,17 @@ This is my class repo for Tech Basics 1, i will actually participate and do my b
        I    I         I
        I    I         I
 ________________________________________________________
-# H1       This is my bio
+#H1       This is my bio
+#H3       If one wants he can make smaller font, and maybe even *booold*, nvm that was **italics**.
+#H5 ~~Scratch that, I wrote it in the wrong place and also wrong font~~
+#H3
+1. first
+2. second
+*But this is unordered
+i. BUt I can also make an ordered sub-list
+3. and then go back to the ordinal stuff.
+
+#H1 Links and Bio stuff
+#H3 Now I am going to try and make links and stuff look cool
+#H3 [First I will try and make a inline-style link with title](https://hendriklantin.neocities.org/ "My Webstie that I created")
+#H4 Some other websites that I will try and link
