@@ -1,7 +1,7 @@
 # techBasics1_Hendrik_Lantin
-# This is my repo for TechBasics 1 - I will put in 
-##### "an above amount of generally productive and good effort" 
-# to learn coding enough to make a retro and cool website (in th foreseeable future)
+# This is my repo for TechBasics 1 -
+##### "I will put in an above amount of generally productive and good effort" 
+#££ to learn coding enough to make a retro and cool website (in th foreseeable future)
 
        .-""-.
       /-.{}  \         
@@ -17,13 +17,14 @@
 ________________________________________________________
 #  This is my bio 
 ###### (trying out headers and stuff)
-## If one wants he can make smaller font, and maybe even *booold*, nvm that was **italics**.
+## If one wants he can make smaller font, and maybe even *booold*
+##### nvm that was **italics**.
 #####  ~~Scratch that, I wrote it in the wrong place and also wrong font~~
-### 
+### Here's some more 
 1. first
 2. second
     *But this is unordered
-    1. BUt I can also make an ordered sub-list
+    1. But I can also make an ordered sub-list
 3. and then go back to the ordinal stuff.
     *I learned this from [this website](
 
@@ -35,3 +36,8 @@ ________________________________________________________
 ##### [Instagram](https://www.instagram.com/hendrik_lantin/)
 ##### [MY FAVOURITE WEBSITE FOR FUNKY PHOTO EDITING](https://www.glyphr.xyz/)
 ##### [I also like this](https://grainrad.com/)
+
+#My Youtube Videos : )
+
+###<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=DNTSfk3xWGU)" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
