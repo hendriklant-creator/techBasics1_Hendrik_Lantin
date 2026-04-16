@@ -1,3 +1,12 @@
+# Frame 1
+print("Frame 1:")
+# ASCII art
+
+# Frame 2
+print("Frame 2:")
+# ASCII art (slightly modified)
+
+
        .-""-.
       /-.{}  \         
       | _\__.|      OOOOO
@@ -16,10 +25,4 @@ ________________________________________________ ________
        / \           OOOOO
 
 
-# Frame 1
-print("Frame 1:")
-# ASCII art
 
-# Frame 2
-print("Frame 2:")
-# ASCII art (slightly modified)
