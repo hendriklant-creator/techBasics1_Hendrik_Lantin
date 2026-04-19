@@ -57,3 +57,7 @@ Retrieved 2026-04-15, License - CC BY-SA 4.0
         alt="ALSO Watch this video"
         width="240" height="180" border="10" />
 </a>
+
+> My album cover picture
+>
+> ![Album Cover](https://hendriklantin.neocities.org/album_cover.jpg)
