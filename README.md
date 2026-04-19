@@ -23,8 +23,6 @@ Posted by Waylan, modified by community. See post 'Timeline' for change history
 Retrieved 2026-04-15, License - CC BY-SA 4.0
 -->
 
-<span style="color:blue">some *blue* text</span>.
-
 ## If one 'wants' he can make 'smaller font', and maybe even *booold*
 ##### nvm that was **italics**.
 #####  ~~Scratch that, I wrote it in the wrong place and also wrong font~~
