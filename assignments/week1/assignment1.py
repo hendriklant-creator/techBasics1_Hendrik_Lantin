@@ -80,7 +80,7 @@ frame3 = """
 frames = [frame1, frame2, frame3, frame2, frame1]
 
 # Play animation
-for i in range(5):  # Loop 5 times
+for i in range(50):  # Loop 5 times
     clear_screen()
     print(frames[i % len(frames)])
     time.sleep(0.5)  # Wait 0.5 seconds between frames
