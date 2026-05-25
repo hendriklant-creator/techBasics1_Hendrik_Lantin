@@ -4,7 +4,7 @@
 
 # The doctor asks you three questions and your answers shape the ending, i tried to give it an rpg spin with the inventory system and item interactability adding a bit of a storytelling aspect to the examining of stuff around the room
 
-# ===== INVENTORY AND ROOM =====
+#INVENTORY AND ROOM 
 # the players inventory is a list of dictionaries
 inventory = []
 INVENTORY_LIMIT = 5
