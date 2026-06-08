@@ -1,23 +1,20 @@
-# Assignment 8 - Pygame animation with a class
-# I used the cover of "The Bends" by Radiohead (my favourite album)
-# The goal was just to make the image move, so i made a bunch of copies of the
-# album cover bounce around the screen like the old DVD logo.
-# Built on top of the dino.py / Dino class example from class.
+# Assignment 8 - Pygame animation thingy
+# I used the cover of "The Bends" by Radiohead (my favourite album) The goal was just to make the image move, so i made a bunch of copies of the album cover bounce around the screen like the old DVD logo.
+# Built on top of the dino.py, Dino class example from class.
 
 import pygame
 import random
 
-# --- some settings at the top ---
+#settings for the overlay, can be changed very easily right here
 WIDTH = 700
 HEIGHT = 500
 IMAGE_FILE = "the_bends.jpg"
 NUM_COVERS = 5          # how many album covers bounce around
-BG_COLOR = (10, 10, 10)  # almost black background
+BG_COLOR = (10, 10, 10)  # almost black background for a cool look i guess
 
 
-# --- the class for one bouncing album cover ---
-# this is basically the Dino class from class: it has an image and a position,
-# a move() method and a draw() method.
+
+#this is basically the Dino class from class: it has an image and a position, a move() method and a draw() method (i basically copied it from the thing we did in class)
 class Album:
     def __init__(self, image, x, y, speed_x, speed_y):
         self.image = image
@@ -47,20 +44,16 @@ class Album:
         screen.blit(self.image, (self.x, self.y))
 
 
-# --- a small helper that builds one random album cover ---
-# i made this a function so the random stuff is in one place.
-# it loads the image, scales it to a random size, and gives it a random
-# position and random speed, then returns a new Album object.
+# i made this a function so the random stuff is in one place. it loads the image, scales it to a random size, and gives it a random position and random speed, then returns a new Album object.
 def make_random_album():
-    # load the image (convert() makes it draw faster - we use convert() and not
-    # convert_alpha() because a jpg has no transparency)
+    # load the image (convert() makes it draw faster - we use convert() and not, convert_alpha() because a jpg has no transparency)
     picture = pygame.image.load(IMAGE_FILE).convert()
 
     # random size between 60 and 120 pixels so they're not all the same
     size = random.randint(60, 120)
     picture = pygame.transform.scale(picture, (size, size))
 
-    # random starting position (kept a bit away from the edges)
+    # random starting position (kept a bit away from the edges so it looks cleaner)
     start_x = random.randint(0, WIDTH - size)
     start_y = random.randint(0, HEIGHT - size)
 
@@ -76,12 +69,10 @@ def main():
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("The Bends - bouncing covers")
 
-    # clock keeps the animation running at a steady speed (looked this up,
-    # without it the covers move way too fast)
+    # clock keeps the animation running at a steady speed (looked this up, without it the covers move way too fast (had no idea how to do this without youtube, and AI)
     clock = pygame.time.Clock()
 
-    # build a list of random album covers - this is the "multiple instances" part.
-    # same idea as the Car holding a list of Wheels in class.
+    # build a list of random album covers - this is the "multiple instances" part. same idea as the Car holding a list of Wheels in class that we did.
     albums = []
     for i in range(NUM_COVERS):
         albums.append(make_random_album())
@@ -101,10 +92,10 @@ def main():
             album.move()
             album.draw(screen)
 
-        # show everything we just drew
+        # show everything I just drew
         pygame.display.flip()
 
-        # run at 60 frames per second
+        # run at 60 frames per second for smoooooothness
         clock.tick(60)
 
     pygame.quit()
